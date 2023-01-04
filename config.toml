@@ -11,3 +11,14 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[author]
+name = "Ferdinand Bauer"
+
+[params.reveal_hugo]
+history = true
+center = false
+width = 800
+height = 1400
+theme="moon"
+load_default_plugins = false
