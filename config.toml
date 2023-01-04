@@ -20,5 +20,6 @@ history = true
 center = false
 width = 800
 height = 1400
-theme="moon"
 load_default_plugins = false
+custom_theme = "herzbar-theme.scss"
+custom_theme_compile = true
