@@ -11,3 +11,15 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[author]
+name = "Ferdinand Bauer"
+
+[params.reveal_hugo]
+history = true
+center = false
+width = 800
+height = 1400
+load_default_plugins = false
+custom_theme = "herzbar-theme.scss"
+custom_theme_compile = true
