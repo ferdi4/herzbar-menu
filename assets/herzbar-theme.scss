@@ -1,14 +1,24 @@
 @import "reveal-js/css/theme/template/mixins";
 @import "reveal-js/css/theme/template/settings";
 
+@font-face {
+  font-family: 'Mighty Brush';
+  font-style: normal;
+  src: url('fonts/MightyBrush.woff') format('woff'),
+  url('fonts/MightyBrush.ttf') format('truetype'),
+  url('fonts/MightyBrush.otf') format('opentype');
+}
+
 $headingColor:  #eee8d5;
 $headingTextShadow: none;
-
 
 $heading1Size: 2.0em;
 $heading2Size: 1.0em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
+
+$mainFont: 'Mighty Brush';
+$headingFont: 'Mighty Brush';
 
 @import "reveal-js/css/theme/template/theme";
 
