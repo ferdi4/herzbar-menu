@@ -1,8 +1,13 @@
 baseURL = 'https://ferdi4.github.io/herzbar-menu/'
-languageCode = 'de-de'
-title = 'HERZ bar&lounge'
 
+defaultContentLanguage = "de"
 theme = "reveal-hugo"
+
+[languages]
+[languages.de]
+title = "HERZ bar&lounge"
+[languages.en]
+title = "HERZ bar&lounge"
 
 [markup.goldmark.renderer]
 unsafe = true
