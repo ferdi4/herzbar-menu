@@ -1,18 +1,33 @@
-# Herzbar Menu
-Small project to provide a digital and customizable menu for our favorite bar.
+# Herzbar (herzbar-menu)
 
+Gertränkekarte der \u0016HERZ bar&lounge
 
-## Development
-### Hints
- - Don't forget to check out submodule `reveal-hugo`
+## Install the dependencies
 ```bash
-git submodule update --init
+yarn
+# or
+npm install
 ```
 
-- Keep in mind to modify the `baseURL` property in the `config.toml` when you change the GitHub Pages Url.
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
 
-### Design
-For design adjustments edit the `assets/herzbar-theme.scss` file.
 
-## Production deployment
-You have to create a release to deploy your changes.
+### Lint the files
+```bash
+yarn lint
+# or
+npm run lint
+```
+
+
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
