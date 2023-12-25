@@ -5,17 +5,13 @@
       swipeable
       animated
       arrows
-      navigation
-      navigation-icon="radio_button_unchecked"
       control-type="regular"
-      control-color="orange"
       control-text-color="grey-8"
-      height="100vh"
-      class=""
+      fullscreen
     >
       <q-carousel-slide :name="group.name" class="q-pa-none" v-for="group in menu" :key="group.name">
         <q-scroll-area class="fit">
-          <div class="column no-wrap flex-center q-carousel--padding">
+          <div class="column no-wrap q-carousel--padding">
            <menu-item :group="group" />
           </div>
         </q-scroll-area>

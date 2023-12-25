@@ -1,9 +1,22 @@
 <template>
   <div v-if="group">
-    <h2>{{ group.name }}</h2>
-    <div class="q-mt-md" v-for="item in group.items" :key="item.name">
-      {{ item.name }}
-    </div>
+    <h4>{{ group.name }}</h4>
+
+    <q-list separator>
+      <q-item v-for="item in group.items" :key="item.name" class="q-pl-none">
+        <q-item-section>
+          <q-item-label>
+            {{ item.name }}
+        </q-item-label>
+          <q-item-label caption>{{ item?.description }}</q-item-label>
+        </q-item-section>
+        <q-item-section side>
+            <div v-for="variant in item.variants" :key="variant.name">
+                <span v-if="variant?.name">{{ variant.name }} | </span><span>{{ variant.price }} €</span>
+            </div>
+        </q-item-section>
+      </q-item>
+    </q-list>
   </div>
 </template>
 
