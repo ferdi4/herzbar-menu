@@ -9,7 +9,7 @@
       control-text-color="grey-8"
       fullscreen
     >
-      <q-carousel-slide :name="group.name" class="q-pa-none" v-for="group in menu" :key="group.name">
+      <q-carousel-slide :name="group.name" class="q-pa-none" v-for="group in menu" :key="group.uuid">
         <q-scroll-area class="fit">
           <div class="column no-wrap q-carousel--padding">
            <menu-item :group="group" />

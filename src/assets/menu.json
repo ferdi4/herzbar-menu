@@ -1,6 +1,6 @@
 [
     {
-        "pos": 0,
+        "uuid": "cc5abb24-95f5-4487-bfbe-4ecbe65e42f0",
         "name": "Heissgetränke",
         "items": [
             {
@@ -116,7 +116,7 @@
         ]
     },
     {
-        "pos": 10,
+        "uuid": "f84fa87b-2faf-407b-84ea-0ec9cc60f909",
         "name": "Tee",
         "description": "Lose & frische Teesorten: Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \"Herz\" Team nach dem Sortiment.",
         "items": [
@@ -139,7 +139,7 @@
         ]
     },
     {
-        "pos": 20,
+        "uuid": "a4f419e1-9940-4eef-94c3-e53ca9dd794e",
         "name": "Alkoholfreie Getränke",
         "items": [
             {
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "pos": 30,
+        "uuid": "fd05ca66-4c09-45be-a880-6af26989fec5",
         "name": "Thomas Henry",
         "items": [
             {
@@ -191,7 +191,7 @@
         ]
     },
     {
-        "pos": 40,
+        "uuid": "d1c7a66d-86e1-4f18-9d38-95506de54098",
         "name": "Säfte von Granini",
         "items": [
             {
@@ -236,7 +236,7 @@
         ]
     },
     {
-        "pos": 50,
+        "uuid": "d720559a-9b8e-4a83-8780-340b640973be",
         "name": "Flaschenbiere",
         "items": [
             {
@@ -305,7 +305,7 @@
         ]
     },
     {
-        "pos": 60,
+        "uuid": "4d3282d8-981b-485d-8098-169dba75359b",
         "name": "Weine",
         "description": "Fragen Sie das HERZ Team nach den aktuellen Weinen",
         "items": [
@@ -330,7 +330,7 @@
         ]
     },
     {
-        "pos": 70,
+        "uuid": "6637a41c-1a66-4d7c-8334-cefb7f448ccf",
         "name": "Sekt, Prosecco & Co.",
         "items": [
             {
@@ -438,7 +438,7 @@
         ]
     },
     {
-        "pos": 80,
+        "uuid": "9bf9f17a-46a9-4e41-8501-681607d81e64",
         "name": "Longdrinks I",
         "description": "Gin Tonic Thomas Henry",
         "items": [
@@ -495,7 +495,7 @@
         ]
     },
     {
-        "pos": 90,
+        "uuid": "c770a57d-5e7d-4f65-a325-5ef86ac15654",
         "name": "Longdrinks II",
         "description": "Havana Cola",
         "items": [
@@ -522,7 +522,7 @@
         ]
     },
     {
-        "pos": 90,
+        "uuid": "7039af36-57c7-40ce-bc3e-40f495d5b4b1",
         "name": "Longdrinks III",
         "description": "Cuba Libre",
         "items": [
@@ -549,7 +549,7 @@
         ]
     },
     {
-        "pos": 100,
+        "uuid": "d83c6fb8-4fe4-4d70-a5fd-624471576167",
         "name": "Longdrinks IV",
         "items": [
             {
@@ -661,7 +661,7 @@
         ]
     },
     {
-        "pos": 110,
+        "uuid": "f2e8d9f5-2a33-48e1-b69b-40dd6233f1a5",
         "name": "Cocktails",
         "description": "Limette & Co.",
         "items": [
@@ -751,7 +751,7 @@
         ]
     },
     {
-        "pos": 120,
+        "uuid": "719f4e56-1a24-4292-a4ec-2cd48638c7d2",
         "name": "Sweet & Fruity",
         "items": [
             {
@@ -848,7 +848,7 @@
         ]
     },
     {
-        "pos": 130,
+        "uuid": "3e189fb6-c71e-4e2a-9ddc-3af06249b0cc",
         "name": "Sours & Fizzes",
         "items": [
             {
@@ -890,7 +890,7 @@
         ]
     },
     {
-        "pos": 140,
+        "uuid": "289520c4-e96e-4eb4-b384-6a14331c5369",
         "name": "Coladas",
         "items": [
             {
@@ -923,7 +923,7 @@
         ]
     },
     {
-        "pos": 150,
+        "uuid": "07005488-9974-4f7b-83db-d3d9831a7ca5",
         "name": "Virgin Cocktails",
         "items": [
             {
@@ -974,7 +974,7 @@
         ]
     },
     {
-        "pos": 160,
+        "uuid": "c4b12436-447c-4932-9827-ad07db22b310",
         "name": "Shots",
         "items": [
             {
@@ -1030,7 +1030,7 @@
         ]
     },
     {
-        "pos": 170,
+        "uuid": "fddbcc5a-e624-46e3-8a25-7534be103ae1",
         "name": "Aperitif",
         "items": [
             {
@@ -1054,7 +1054,7 @@
         ]
     },
     {
-        "pos": 180,
+        "uuid": "20980ea7-3100-406f-9f86-b3eb1e8ce285",
         "name": "Liköre",
         "items": [
             {
@@ -1087,7 +1087,7 @@
         ]
     },
     {
-        "pos": 190,
+        "uuid": "57cb9b2b-16d3-4f14-bd9b-5cee157dae21",
         "name": "Sprituosen",
         "description": "Rum",
         "items": [
@@ -1130,7 +1130,7 @@
         ]
     },
     {
-        "pos": 200,
+        "uuid": "d896dfd8-bb50-4e23-bfae-285ed8026698",
         "name": "Sprituosen",
         "description": "Tequila",
         "items": [
@@ -1146,7 +1146,7 @@
         ]
     },
     {
-        "pos": 210,
+        "uuid": "7c0c01b7-bddc-4f09-a5d0-bf34281432de",
         "name": "Sprituosen",
         "description": "Vodka",
         "items": [
@@ -1171,7 +1171,7 @@
         ]
     },
     {
-        "pos": 220,
+        "uuid": "b377de90-a43f-4310-b448-9dcd81aaa6c2",
         "name": "Sprituosen",
         "description": "Gin",
         "items": [
@@ -1223,7 +1223,7 @@
         ]
     },
     {
-        "pos": 230,
+        "uuid": "dc37fb25-fda0-4f99-8977-08fe35e36ff7",
         "name": "Grappa",
         "items": [
             {
@@ -1242,7 +1242,7 @@
         ]
     },
     {
-        "pos": 240,
+        "uuid": "5ed911d4-723a-4b4e-a640-5b512a13faac",
         "name": "Fahner Obstbrände",
         "items": [
             {
@@ -1284,7 +1284,7 @@
         ]
     },
     {
-        "pos": 250,
+        "uuid": "363cdf08-250c-48e1-8007-14b823f8ad9f",
         "name": "Gognac",
         "items": [
             {
@@ -1299,7 +1299,7 @@
         ]
     },
     {
-        "pos": 260,
+        "uuid": "e95c77ce-3906-42c2-9c51-a08d8dfc3695",
         "name": "Digestif",
         "items": [
             {
@@ -1331,7 +1331,7 @@
         ]
     },
     {
-        "pos": 270,
+        "uuid": "6d05c586-a9ed-47be-9a5a-b89d9e4dc15b",
         "name": "Whiskey",
         "items": [
             {

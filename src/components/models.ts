@@ -1,5 +1,5 @@
 export interface Group {
-  readonly pos: number
+  readonly uuid: number
   readonly name: string
   readonly description?: string
   readonly items: Item[]
