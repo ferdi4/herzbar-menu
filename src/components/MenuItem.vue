@@ -12,7 +12,7 @@
         </q-item-section>
         <q-item-section side>
             <div v-for="variant in item.variants" :key="variant.name">
-                <span v-if="variant?.name">{{ variant.name }} | </span><span>{{ variant.price }} €</span>
+                <span v-if="variant?.name">{{ variant.name }} | </span><span>{{ moneyFormatter.format(variant.price) }}</span>
             </div>
         </q-item-section>
       </q-item>
@@ -22,6 +22,7 @@
 
 <script setup lang="ts">
 import { Group } from './models'
+import { moneyFormatter } from './helpers'
 
 defineProps<{
   group?: Group
