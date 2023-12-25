@@ -13,93 +13,12 @@
       height="100vh"
       class=""
     >
-      <q-carousel-slide name="style" class="q-pa-none">
+      <q-carousel-slide :name="group.name" class="q-pa-none" v-for="group in menu" :key="group.name">
         <q-scroll-area class="fit">
           <div class="column no-wrap flex-center q-carousel--padding">
-            <q-icon name="style" size="56px" />
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-          </div>
-        </q-scroll-area>
-      </q-carousel-slide>
-
-      <q-carousel-slide name="tv" class="q-pa-none">
-        <q-scroll-area class="fit">
-          <div class="column no-wrap flex-center q-carousel--padding">
-            <q-icon name="live_tv" size="56px" />
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-          </div>
-        </q-scroll-area>
-      </q-carousel-slide>
-
-      <q-carousel-slide name="layers" class="q-pa-none">
-        <q-scroll-area class="fit">
-          <div class="column no-wrap flex-center q-carousel--padding">
-            <q-icon name="layers" size="56px" />
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-          </div>
-        </q-scroll-area>
-      </q-carousel-slide>
-
-      <q-carousel-slide name="map" class="q-pa-none">
-        <q-scroll-area class="fit">
-          <div class="column no-wrap flex-center q-carousel--padding">
-            <q-icon name="terrain" size="56px" />
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
-            </div>
-            <div class="q-mt-md">
-              {{ lorem }}
+            {{ group.name }}
+            <div class="q-mt-md"  v-for="item in group.items" :key="item.name">
+              {{ item.name }}
             </div>
           </div>
         </q-scroll-area>
@@ -108,14 +27,12 @@
   </div>
 </template>
 
-<script lang="ts">
-export default {
-  data () {
-    return {
-      slide: 'style',
-      lorem: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque voluptatem totam, architecto cupiditate officia rerum, error dignissimos praesentium libero ab nemo.'
-    }
-  },
+<script setup lang="ts">
+import { ref } from 'vue'
+import { Group } from 'src/components/models';
+import data from '../assets/menu.json'
 
-}
+const slide = ref('Heissgetränke')
+const menu: Group[] = data;
+
 </script>

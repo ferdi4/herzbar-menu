@@ -118,7 +118,7 @@
     {
         "pos": 10,
         "name": "Tee",
-        "description": "Lose & frische Teesorten: Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \\"Herz\\" Team nach dem Sortiment.",
+        "description": "Lose & frische Teesorten: Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \"Herz\" Team nach dem Sortiment.",
         "items": [
             {
                 "name": "Glas",
@@ -390,8 +390,16 @@
                 ]
             },
             {
-                "name": "Prosecco Aperol \\"Spritz","variants":[{"name":"0,
-                2 l","price":8.5}]},{"name":"Alkoholfreier Aperol \\"Spritz",
+                "name": "Prosecco Aperol \"Spritz",
+                "variants": [
+                    {
+                        "name": "0,2 l",
+                        "price": 8.5
+                    }
+                ]
+            },
+            {
+                "name": "Alkoholfreier Aperol \"Spritz",
                 "description": "mit Tonic Water",
                 "variants": [
                     {
