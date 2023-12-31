@@ -120,7 +120,8 @@
     "name": "Alkoholfreie Getränke",
     "items": [
       {
-        "name": "fritz-kola, fritz-limo Apfel-Kirsch-Holunder limonade, fritz-limo ORANGE, fritz MISCHMASCH-Cola-Orangen-Limonade",
+        "name": "fritz",
+        "description": "kola, apfel-kirsch-holunder, orange, kola-orangen-limonade",
         "variants": [
           {
             "name": "0,33 l",
