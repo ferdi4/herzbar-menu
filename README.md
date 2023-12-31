@@ -1,6 +1,6 @@
 # Herzbar (herzbar-menu)
 
-Gertränkekarte der \u0016HERZ bar&lounge
+Gertränkekarte der HERZ bar&lounge
 
 ## Install the dependencies
 ```bash
