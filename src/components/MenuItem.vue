@@ -1,6 +1,7 @@
 <template>
   <div v-if="group">
     <h4>{{ group.name }}</h4>
+      <p>{{group?.description}}</p>
 
     <q-list separator>
       <q-item v-for="item in group.items" :key="item.name" class="q-pl-none">
