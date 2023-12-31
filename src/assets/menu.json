@@ -116,26 +116,6 @@
     ]
   },
   {
-    "uuid": "f84fa87b-2faf-407b-84ea-0ec9cc60f909",
-    "name": "Tee",
-    "description": "Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \"Herz\" Team nach dem Sortiment.",
-    "items": [
-      {
-        "name": "Lose & frische Teesorten",
-        "variants": [
-          {
-            "name": "Glas",
-            "price": 3.5
-          },
-          {
-            "name": "Kännchen",
-            "price": 6.2
-          }
-        ]
-      }
-    ]
-  },
-  {
     "uuid": "a4f419e1-9940-4eef-94c3-e53ca9dd794e",
     "name": "Alkoholfreie Getränke",
     "items": [
@@ -207,28 +187,10 @@
             "price": 4.6
           }
         ]
-      }
-    ]
-  },
-  {
-    "uuid": "d1c7a66d-86e1-4f18-9d38-95506de54098",
-    "name": "Säfte von Granini",
-    "items": [
-      {
-        "name": "Apfel, Orange, Banane, Kirsche, Mango, Maracuja, Ananas, Johannisbeere, Crainberry, Tomatensaft",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 2.6
-          },
-          {
-            "name": "0,4 l",
-            "price": 4.8
-          }
-        ]
       },
       {
-        "name": "Saftschorlen",
+        "name": "Saft / Saftschorle",
+        "description": "Apfel, Orange, Banane, Kirsche, Mango, Maracuja, Ananas, Johannisbeere, Crainberry, Tomatensaft",
         "variants": [
           {
             "name": "0,2 l",
@@ -250,6 +212,20 @@
           {
             "name": "0,4 l",
             "price": 3.5
+          }
+        ]
+      },
+      {
+        "name": "Tee",
+        "description": "Lose & frische Teesorten: Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \"Herz\" Team nach dem Sortiment.",
+        "variants": [
+          {
+            "name": "Glas",
+            "price": 3.5
+          },
+          {
+            "name": "Kännchen",
+            "price": 6.2
           }
         ]
       }
@@ -567,7 +543,7 @@
   },
   {
     "uuid": "d83c6fb8-4fe4-4d70-a5fd-624471576167",
-    "name": "Longdrinks IV",
+    "name": "Longdrinks",
     "items": [
       {
         "name": "Jack Daniels Cola",
