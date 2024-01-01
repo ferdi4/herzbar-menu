@@ -8,44 +8,28 @@
         "ingredients": [
           "11"
         ],
-        "variants": [
-          {
-            "price": 2.6
-          }
-        ]
+        "price": 2.6
       },
       {
         "name": "Pott Kaffee",
         "ingredients": [
           "11"
         ],
-        "variants": [
-          {
-            "price": 4.5
-          }
-        ]
+        "price": 4.5
       },
       {
         "name": "Espresso",
         "ingredients": [
           "11"
         ],
-        "variants": [
-          {
-            "price": 2.6
-          }
-        ]
+        "price": 2.6
       },
       {
         "name": "Espresso doppelt",
         "ingredients": [
           "11"
         ],
-        "variants": [
-          {
-            "price": 4.5
-          }
-        ]
+        "price": 4.5
       },
       {
         "name": "Cappuccino",
@@ -53,11 +37,7 @@
           "11",
           "G"
         ],
-        "variants": [
-          {
-            "price": 3.8
-          }
-        ]
+        "price": 3.8
       },
       {
         "name": "Latte Macchiato",
@@ -66,52 +46,32 @@
           "11",
           "G"
         ],
-        "variants": [
-          {
-            "price": 4.8
-          }
-        ]
+        "price": 4.8
       },
       {
         "name": "Baileys Latte Macchiato",
         "ingredients": [
           "G"
         ],
-        "variants": [
-          {
-            "price": 6.5
-          }
-        ]
+        "price": 6.5
       },
       {
         "name": "Heiße Schokolade",
         "ingredients": [
           "G"
         ],
-        "variants": [
-          {
-            "price": 4
-          }
-        ]
+        "price": 4
       },
       {
         "name": "Heiße Zitrone",
         "ingredients": [
           "G"
         ],
-        "variants": [
-          {
-            "price": 3
-          }
-        ]
+        "price": 3
       },
       {
         "name": "Grog",
-        "variants": [
-          {
-            "price": 5.5
-          }
-        ]
+        "price": 5.5
       }
     ]
   },
@@ -122,113 +82,85 @@
       {
         "name": "fritz",
         "description": "kola, apfel-kirsch-holunder, orange, kola-orangen-limonade",
-        "variants": [
-          {
-            "name": "0,33 l",
-            "price": 3.8
-          }
-        ]
+        "price": 3.8,
+        "formattedVolume": "0,33 l"
       },
       {
         "name": "Red Bull",
-        "variants": [
-          {
-            "name": "0,25 l",
-            "price": 4.5
-          }
-        ]
+        "formattedVolume": "0,25 l",
+        "price": 4.5
       },
       {
         "name": "Coca Cola",
-        "variants": [
-          {
-            "name": "0,33 l",
-            "price": 3.5
-          }
-        ]
+        "formattedVolume": "0,33 l",
+        "price": 3.5
       },
       {
         "name": "Tonic Water",
-        "description": "Thomas Henry Ginger Ale",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 2.8
-          },
-          {
-            "name": "0,4 l",
-            "price": 4.6
-          }
-        ]
+        "description": "Thomas Henry Tonic Water",
+        "formattedVolume": "0,2 l",
+        "price": 2.8
+      },
+      {
+        "name": "Tonic Water groß",
+        "description": "Thomas Henry Tonic Water",
+        "formattedVolume": "0,4 l",
+        "price": 4.6
       },
       {
         "name": "Ginger Ale",
         "description": "Thomas Henry Ginger Ale",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 2.8
-          },
-          {
-            "name": "0,4 l",
-            "price": 4.6
-          }
-        ]
+        "formattedVolume": "0,2 l",
+        "price": 2.8
+      },
+      {
+        "name": "Ginger Ale groß",
+        "description": "Thomas Henry Ginger Ale",
+        "formattedVolume": "0,4 l",
+        "price": 4.6
       },
       {
         "name": "Spicy Ginger",
-        "description": "Thomas Henry Ginger Ale",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 2.8
-          },
-          {
-            "name": "0,4 l",
-            "price": 4.6
-          }
-        ]
+        "description": "Thomas Henry Spicy Ginger",
+        "formattedVolume": "0,2 l",
+        "price": 2.8
+      },
+      {
+        "name": "Spicy Ginger groß",
+        "description": "Thomas Henry Spicy Ginger",
+        "formattedVolume": "0,4 l",
+        "price": 4.6
       },
       {
         "name": "Saft / Saftschorle",
-        "description": "Apfel, Orange, Banane, Kirsche, Mango, Maracuja, Ananas, Johannisbeere, Crainberry, Tomatensaft",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 2.6
-          },
-          {
-            "name": "0,4 l",
-            "price": 4.8
-          }
-        ]
+        "formattedVolume": "0,2 l",
+        "price": 2.6
+      },
+      {
+        "name": "Saft / Saftschorle groß",
+        "formattedVolume": "0,4 l",
+        "price": 4.8
       },
       {
         "name": "Tafelwasser",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 2.6
-          },
-          {
-            "name": "0,4 l",
-            "price": 3.5
-          }
-        ]
+        "formattedVolume": "0,2 l",
+        "price": 2.6
+      },
+      {
+        "name": "Tafelwasser groß",
+        "formattedVolume": "0,4 l",
+        "price": 3.5
       },
       {
         "name": "Tee",
         "description": "Lose & frische Teesorten: Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \"Herz\" Team nach dem Sortiment.",
-        "variants": [
-          {
-            "name": "Glas",
-            "price": 3.5
-          },
-          {
-            "name": "Kännchen",
-            "price": 6.2
-          }
-        ]
+        "formattedVolume": "Glas",
+        "price": 3.5
+      },
+      {
+        "name": "Tee",
+        "formattedVolume": "Kännchen",
+        "price": 6.2
       }
     ]
   },

@@ -8,7 +8,7 @@
                 infinite
                 control-type="regular"
                 control-text-color="grey-8"
-                height="100vh"
+                fullscreen
         >
             <q-carousel-slide name="greeting" class="q-pa-none">
                 <q-scroll-area class="fit">
@@ -20,7 +20,7 @@
             <q-carousel-slide :name="group.uuid" class="q-pa-none" v-for="group in menu" :key="group.uuid">
                 <q-scroll-area class="fit">
                     <div class="column no-wrap q-carousel--padding">
-                        <menu-item :group="group"/>
+                        <menu-item :drink-group="group"/>
                     </div>
                 </q-scroll-area>
             </q-carousel-slide>
