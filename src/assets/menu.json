@@ -1123,8 +1123,7 @@
   },
   {
     "uuid": "d896dfd8-bb50-4e23-bfae-285ed8026698",
-    "name": "Sprituosen",
-    "description": "Tequila",
+    "name": "Tequila",
     "items": [
       {
         "name": "Agavita Tequila Añejo",
@@ -1139,8 +1138,7 @@
   },
   {
     "uuid": "7c0c01b7-bddc-4f09-a5d0-bf34281432de",
-    "name": "Sprituosen",
-    "description": "Vodka",
+    "name": "Vodka",
     "items": [
       {
         "name": "Three Sixty Vodka",
@@ -1164,8 +1162,7 @@
   },
   {
     "uuid": "b377de90-a43f-4310-b448-9dcd81aaa6c2",
-    "name": "Sprituosen",
-    "description": "Gin",
+    "name": "Gin",
     "items": [
       {
         "name": "Brick Gin",
