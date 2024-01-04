@@ -1,4 +1,1 @@
-export const moneyFormatter = Intl.NumberFormat('de', {
-    style: 'currency',
-    currency: 'EUR'
-})
+export const moneyFormatter = Intl.NumberFormat('de', { minimumFractionDigits: 2 })
