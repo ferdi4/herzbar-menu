@@ -117,14 +117,14 @@
   },
   {
     "uuid": "a4f419e1-9940-4eef-94c3-e53ca9dd794e",
-    "name": "Alkoholfreie Getränke",
+    "name": "Alkoholfrei",
     "items": [
       {
         "name": "fritz",
         "description": "kola, apfel-kirsch-holunder, orange, kola-orangen-limonade",
         "variants": [
           {
-            "name": "0,33 l",
+            "name": "0,33",
             "price": 3.8
           }
         ]
@@ -133,7 +133,7 @@
         "name": "Red Bull",
         "variants": [
           {
-            "name": "0,25 l",
+            "name": "0,25",
             "price": 4.5
           }
         ]
@@ -142,7 +142,7 @@
         "name": "Coca Cola",
         "variants": [
           {
-            "name": "0,33 l",
+            "name": "0,33",
             "price": 3.5
           }
         ]
@@ -152,11 +152,11 @@
         "description": "Thomas Henry Ginger Ale",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 2.8
           },
           {
-            "name": "0,4 l",
+            "name": "0,4",
             "price": 4.6
           }
         ]
@@ -166,11 +166,11 @@
         "description": "Thomas Henry Ginger Ale",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 2.8
           },
           {
-            "name": "0,4 l",
+            "name": "0,4",
             "price": 4.6
           }
         ]
@@ -180,11 +180,11 @@
         "description": "Thomas Henry Ginger Ale",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 2.8
           },
           {
-            "name": "0,4 l",
+            "name": "0,4",
             "price": 4.6
           }
         ]
@@ -194,11 +194,11 @@
         "description": "Apfel, Orange, Banane, Kirsche, Mango, Maracuja, Ananas, Johannisbeere, Crainberry, Tomatensaft",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 2.6
           },
           {
-            "name": "0,4 l",
+            "name": "0,4",
             "price": 4.8
           }
         ]
@@ -207,11 +207,11 @@
         "name": "Tafelwasser",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 2.6
           },
           {
-            "name": "0,4 l",
+            "name": "0,4",
             "price": 3.5
           }
         ]
@@ -240,7 +240,7 @@
         "name": "Budweiser",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 4
           }
         ]
@@ -249,7 +249,7 @@
         "name": "Augustiener Hell",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 4
           }
         ]
@@ -258,7 +258,7 @@
         "name": "Rothaus Pils Tannenzäpfle",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 3.5
           }
         ]
@@ -267,7 +267,7 @@
         "name": "Gösser Natur Radler",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 3.5
           }
         ]
@@ -276,7 +276,7 @@
         "name": "Clausthaler Alkoholfrei",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 3.5
           }
         ]
@@ -285,7 +285,7 @@
         "name": "Paulaner Hefe",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 4.1
           }
         ]
@@ -294,7 +294,7 @@
         "name": "Paulaner Hefe Alkoholfrei",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 4.1
           }
         ]
@@ -310,7 +310,7 @@
         "name": "Weißweinschorle",
         "variants": [
           {
-            "name": " 0,2 l",
+            "name": " 0,2",
             "price": 4.5
           }
         ]
@@ -319,7 +319,7 @@
         "name": "Róseschorle",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 4.8
           }
         ]
@@ -328,14 +328,14 @@
   },
   {
     "uuid": "6637a41c-1a66-4d7c-8334-cefb7f448ccf",
-    "name": "Sekt, Prosecco & Co.",
+    "name": "Schaumwein",
     "items": [
       {
         "name": "Geldermann Carte Blanche Sekt",
         "description": "Flaschengärung / Trocken",
         "variants": [
           {
-            "name": "0,75 l",
+            "name": "0,75",
             "price": 34.5
           }
         ]
@@ -345,7 +345,7 @@
         "description": "Flaschengärung / Trocken",
         "variants": [
           {
-            "name": "0,75 l",
+            "name": "0,75",
             "price": 34.5
           }
         ]
@@ -355,11 +355,11 @@
         "description": "Glas",
         "variants": [
           {
-            "name": "Glas 0,1 l",
+            "name": "0,1",
             "price": 3.9
           },
           {
-            "name": "auf Eis 0,2 l",
+            "name": "0,2",
             "price": 6.8
           },
           {
@@ -372,7 +372,7 @@
         "name": "Prosecco",
         "variants": [
           {
-            "name": "0,1 l",
+            "name": "0,1",
             "price": 3.5
           }
         ]
@@ -381,7 +381,7 @@
         "name": "Prosecco auf Eis",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 6.5
           }
         ]
@@ -390,7 +390,7 @@
         "name": "Prosecco Aperol \"Spritz",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 8.5
           }
         ]
@@ -400,7 +400,7 @@
         "description": "mit Tonic Water",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 6.5
           }
         ]
@@ -409,7 +409,7 @@
         "name": "Aperitivo Rosato Mio",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 7.5
           }
         ]
@@ -418,7 +418,7 @@
         "name": "Aperitivo Rosato Tonic",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 7.5
           }
         ]
@@ -427,7 +427,7 @@
         "name": "Hugo",
         "variants": [
           {
-            "name": "0,2 l",
+            "name": "0,2",
             "price": 7.5
           }
         ]
@@ -717,7 +717,7 @@
         "description": "Havana Club 3 Añejo Años, Rohrzucker, Limettensaft, frische Minze",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 12.5
           }
         ]
@@ -727,7 +727,7 @@
         "description": "Havana Club 3 Añejo Años, Rohrzucker, Limettensaft, frische Minze, Himbeerpüree",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 13.5
           }
         ]
@@ -770,7 +770,7 @@
         "description": "Three Sixty Vodka, Apfelsaft, Zitronensaft, Mandel-Sirup, Mineralwasser",
         "variants": [
           {
-            "price": 0
+            "price": 9.6
           }
         ]
       },
@@ -824,7 +824,7 @@
         "description": "Three Sixty Vodka, Bombay London Dry Gin, Havana Club Añejo 3 Anos, El Jimador Blanco, Bols Triple Sec Orangenlikör, Orangensaft, Cola",
         "variants": [
           {
-            "name": "0,5 l",
+            "name": "0,5",
             "price": 12.5
           }
         ]
