@@ -39,3 +39,9 @@ const slide = ref('greeting')
 const menu: Group[] = data;
 
 </script>
+
+<style scoped>
+.q-carousel {
+  background-color: transparent;
+}
+</style>
