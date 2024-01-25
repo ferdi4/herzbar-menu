@@ -77,89 +77,77 @@
   },
   {
     "uuid": "a4f419e1-9940-4eef-94c3-e53ca9dd794e",
-    "name": "Alkoholfreie Getränke",
+    "name": "Alkoholfrei",
     "items": [
       {
         "name": "fritz",
         "description": "kola, apfel-kirsch-holunder, orange, kola-orangen-limonade",
-        "price": 3.8,
-        "formattedVolume": "0,33 l"
+        "price": 3.8
       },
       {
         "name": "Red Bull",
-        "formattedVolume": "0,25 l",
         "price": 4.5
       },
       {
         "name": "Coca Cola",
-        "formattedVolume": "0,33 l",
         "price": 3.5
       },
       {
         "name": "Tonic Water",
-        "description": "Thomas Henry Tonic Water",
-        "formattedVolume": "0,2 l",
+        "description": "Thomas Henry Ginger Ale",
         "price": 2.8
       },
       {
         "name": "Tonic Water groß",
-        "description": "Thomas Henry Tonic Water",
-        "formattedVolume": "0,4 l",
+        "description": "Thomas Henry Ginger Ale",
         "price": 4.6
       },
       {
         "name": "Ginger Ale",
         "description": "Thomas Henry Ginger Ale",
-        "formattedVolume": "0,2 l",
         "price": 2.8
       },
       {
         "name": "Ginger Ale groß",
         "description": "Thomas Henry Ginger Ale",
-        "formattedVolume": "0,4 l",
         "price": 4.6
       },
       {
         "name": "Spicy Ginger",
-        "description": "Thomas Henry Spicy Ginger",
-        "formattedVolume": "0,2 l",
+        "description": "Thomas Henry Ginger Ale",
         "price": 2.8
       },
       {
         "name": "Spicy Ginger groß",
-        "description": "Thomas Henry Spicy Ginger",
-        "formattedVolume": "0,4 l",
+        "description": "Thomas Henry Ginger Ale",
         "price": 4.6
       },
       {
         "name": "Saft / Saftschorle",
-        "formattedVolume": "0,2 l",
+        "description": "Apfel, Orange, Banane, Kirsche, Mango, Maracuja, Ananas, Johannisbeere, Crainberry, Tomatensaft",
         "price": 2.6
       },
       {
         "name": "Saft / Saftschorle groß",
-        "formattedVolume": "0,4 l",
+        "description": "Apfel, Orange, Banane, Kirsche, Mango, Maracuja, Ananas, Johannisbeere, Crainberry, Tomatensaft",
         "price": 4.8
       },
       {
         "name": "Tafelwasser",
-        "formattedVolume": "0,2 l",
         "price": 2.6
       },
       {
         "name": "Tafelwasser groß",
-        "formattedVolume": "0,4 l",
         "price": 3.5
       },
       {
         "name": "Tee",
         "description": "Lose & frische Teesorten: Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \"Herz\" Team nach dem Sortiment.",
-        "formattedVolume": "Glas",
         "price": 3.5
       },
       {
-        "name": "Tee",
-        "formattedVolume": "Kännchen",
+        "name": "Tee groß",
+        "description": "Lose & frische Teesorten: Wir suchen unsere Teesorten immer Saisonal aus. Fragen Sie das \"Herz\" Team nach dem Sortiment.",
         "price": 6.2
       }
     ]
@@ -170,199 +158,103 @@
     "items": [
       {
         "name": "Budweiser",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 4
-          }
-        ]
+        "price": 4
       },
       {
         "name": "Augustiener Hell",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 4
-          }
-        ]
+        "price": 4
       },
       {
         "name": "Rothaus Pils Tannenzäpfle",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 3.5
-          }
-        ]
+        "price": 3.5
       },
       {
         "name": "Gösser Natur Radler",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 3.5
-          }
-        ]
+        "price": 3.5
       },
       {
         "name": "Clausthaler Alkoholfrei",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 3.5
-          }
-        ]
+        "price": 3.5
       },
       {
         "name": "Paulaner Hefe",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 4.1
-          }
-        ]
+        "price": 4.1
       },
       {
         "name": "Paulaner Hefe Alkoholfrei",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 4.1
-          }
-        ]
+        "price": 4.1
       }
     ]
   },
   {
-    "uuid": "4d3282d8-981b-485d-8098-169dba75359b",
+    "uuid": "4d3282d8-981b-485d-8098 groß69dba75359b",
     "name": "Weine",
     "description": "Fragen Sie das HERZ Team nach den aktuellen Weinen",
     "items": [
       {
         "name": "Weißweinschorle",
-        "variants": [
-          {
-            "name": " 0,2 l",
-            "price": 4.5
-          }
-        ]
+        "price": 4.5
       },
       {
         "name": "Róseschorle",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 4.8
-          }
-        ]
+        "price": 4.8
       }
     ]
   },
   {
-    "uuid": "6637a41c-1a66-4d7c-8334-cefb7f448ccf",
-    "name": "Sekt, Prosecco & Co.",
+    "uuid": "6637a41c großa66-4d7c-8334-cefb7f448ccf",
+    "name": "Schaumwein",
     "items": [
       {
         "name": "Geldermann Carte Blanche Sekt",
         "description": "Flaschengärung / Trocken",
-        "variants": [
-          {
-            "name": "0,75 l",
-            "price": 34.5
-          }
-        ]
+        "price": 34.5
       },
       {
         "name": "Geldermann Róse Sekte",
         "description": "Flaschengärung / Trocken",
-        "variants": [
-          {
-            "name": "0,75 l",
-            "price": 34.5
-          }
-        ]
+        "price": 34.5
       },
       {
-        "name": "Scavi & Ray Prosecco",
-        "description": "Glas",
-        "variants": [
-          {
-            "name": "Glas 0,1 l",
-            "price": 3.9
-          },
-          {
-            "name": "auf Eis 0,2 l",
-            "price": 6.8
-          },
-          {
-            "name": "Flasche",
-            "price": 19.8
-          }
-        ]
+        "name": "Scavi & Ray Prosecco Glas",
+        "price": 3.9
+      },
+      {
+        "name": "Scavi & Ray Prosecco auf Eis",
+        "price": 6.8
+      },
+      {
+        "name": "Scavi & Ray Prosecco Flasche",
+        "price": 19.8
       },
       {
         "name": "Prosecco",
-        "variants": [
-          {
-            "name": "0,1 l",
-            "price": 3.5
-          }
-        ]
+        "price": 3.5
       },
       {
         "name": "Prosecco auf Eis",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 6.5
-          }
-        ]
+        "price": 6.5
       },
       {
-        "name": "Prosecco Aperol \"Spritz",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 8.5
-          }
-        ]
+        "name": "Prosecco Aperol Spritz",
+        "price": 8.5
       },
       {
-        "name": "Alkoholfreier Aperol \"Spritz",
+        "name": "Alkoholfreier Aperol Spritz",
         "description": "mit Tonic Water",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 6.5
-          }
-        ]
+        "price": 6.5
       },
       {
         "name": "Aperitivo Rosato Mio",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 7.5
-          }
-        ]
+        "price": 7.5
       },
       {
         "name": "Aperitivo Rosato Tonic",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 7.5
-          }
-        ]
+        "price": 7.5
       },
       {
         "name": "Hugo",
-        "variants": [
-          {
-            "name": "0,2 l",
-            "price": 7.5
-          }
-        ]
+        "price": 7.5
       }
     ]
   },
@@ -373,52 +265,27 @@
       {
         "name": "Brick Gin",
         "description": "Erfurter Brick Gin, Thomas Henry Tonic Water",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 8.9
-          }
-        ]
+        "price": 8.9
       },
       {
         "name": "Tanquery Gin",
         "description": "Tanquery London Dry Gin, Thomas Henry Tonic Water",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 9.5
-          }
-        ]
+        "price": 9.5
       },
       {
         "name": "Bombay Gin",
         "description": "Bombay Sappire London Dry Gin, Thomas Henry Tonic Water",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 8.9
-          }
-        ]
+        "price": 8.9
       },
       {
         "name": "Hendricks Gin",
         "description": "Hendricks Gin, Thomas Henry Tonic Water",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 10.5
-          }
-        ]
+        "price": 10.5
       },
       {
         "name": "Gin Mare",
         "description": "Gin Mare, Thomas Henry Tonic Water",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 12
-          }
-        ]
+        "price": 12
       }
     ]
   },
@@ -429,22 +296,12 @@
       {
         "name": "Havana Club 3 Years",
         "description": "Havana Club Añejo 3 Años, Coca Cola",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 7.3
-          }
-        ]
+        "price": 7.3
       },
       {
         "name": "Havana 7 Years",
         "description": "Havana Club Añejo 7 Años, Coca Cola",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 8.9
-          }
-        ]
+        "price": 8.9
       }
     ]
   },
@@ -455,22 +312,12 @@
       {
         "name": "Havana 3 Years",
         "description": "Havana Club Añejo 3 Años, Limetten, Coca Cola",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 7.3
-          }
-        ]
+        "price": 7.3
       },
       {
         "name": "Havana 7 Years",
         "description": "Havana Club Añejo 7 Años, Limetten, Coca Cola",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 8.9
-          }
-        ]
+        "price": 8.9
       }
     ]
   },
@@ -481,108 +328,60 @@
       {
         "name": "Jack Daniels Cola",
         "description": "Jack Daniels Whiskey, Coca Cola",
-        "variants": [
-          {
-            "price": 8.5
-          }
-        ]
+        "price": 8.5
       },
       {
         "name": "Vodka Red Bull",
         "description": "Three Sixty Vodka, Red Bull",
-        "variants": [
-          {
-            "price": 9.5
-          }
-        ]
+        "price": 9.5
       },
       {
         "name": "Jägermeister Red Bull",
-        "variants": [
-          {
-            "price": 8.9
-          }
-        ]
+        "price": 8.9
       },
       {
         "name": "Jim Beam Cola",
         "description": "Jim Beam Whiskey, Coca Cola",
-        "variants": [
-          {
-            "price": 7.5
-          }
-        ]
+        "price": 7.5
       },
       {
         "name": "Campari Orange",
         "description": "Granini Orangensaft, Campari",
-        "variants": [
-          {
-            "price": 7.5
-          }
-        ]
+        "price": 7.5
       },
       {
         "name": "Malibu",
         "description": "Kirsch, Erdbeere, Ananas, Orange...",
-        "variants": [
-          {
-            "price": 8.5
-          }
-        ]
+        "price": 8.5
       },
       {
         "name": "Batida Kirsch",
         "description": "Batida de Coco, Granini Kirschsaft",
-        "variants": [
-          {
-            "price": 6.5
-          }
-        ]
+        "price": 6.5
       },
       {
         "name": "Southern Comfort Ginger Ale",
         "description": "Southern Comfort, Thomas Henry Ginger Ale",
-        "variants": [
-          {
-            "price": 8.9
-          }
-        ]
+        "price": 8.9
       },
       {
         "name": "Likör 43 mit Milch",
-        "variants": [
-          {
-            "price": 8.5
-          }
-        ]
+        "price": 8.5
       },
       {
         "name": "Bacard Razz",
         "description": "Bacard Razz, Himbeeren, Sprite",
-        "variants": [
-          {
-            "price": 8.6
-          }
-        ]
+        "price": 8.6
       },
       {
         "name": "Pimp Pimm's",
         "description": "Pimm's No 1, Thomas Henry Spicy Ginger, Orange, Minze, Gurke, Zitrone",
-        "variants": [
-          {
-            "price": 7.5
-          }
-        ]
+        "price": 7.5
       },
       {
         "name": "Bloody Mary",
         "description": "Three Sixty Vodka, Tomatensaft",
-        "variants": [
-          {
-            "price": 7.5
-          }
-        ]
+        "price": 7.5
       }
     ]
   },
@@ -593,182 +392,103 @@
       {
         "name": "Caipirinha",
         "description": "Ceepers cachaca, Rohrzucker, Limetten, Lime juice",
-        "variants": [
-          {
-            "price": 8.8
-          }
-        ]
+        "price": 8.8
       },
       {
         "name": "Moscow mule",
         "description": "Three sixty vodka, Thomas henry ginger ale, Gurke, Limettensaft",
-        "variants": [
-          {
-            "price": 9.5
-          }
-        ]
+        "price": 9.5
       },
       {
         "name": "Caipiroska",
         "description": "Three sixty vodka, Limetten, Rohrzucker",
-        "variants": [
-          {
-            "price": 8.8
-          }
-        ]
+        "price": 8.8
       },
       {
         "name": "Gin Mule",
         "description": "Gin, Thomas henry Ginger Ale, Gurke, Limettensaft",
-        "variants": [
-          {
-            "price": 9.5
-          }
-        ]
+        "price": 9.5
       },
       {
         "name": "The Liberty",
         "description": "Drambuie, Limetten, Soda",
-        "variants": [
-          {
-            "price": 9.3
-          }
-        ]
+        "price": 9.3
       },
       {
         "name": "White Russian",
         "description": "Three sixty vodka, Kaluha, Sahne",
-        "variants": [
-          {
-            "price": 9.8
-          }
-        ]
+        "price": 9.8
       },
       {
         "name": "Mojito",
         "description": "Havana Club 3 Añejo Años, Rohrzucker, Limettensaft, frische Minze",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 12.5
-          }
-        ]
+        "price": 12.5
       },
       {
         "name": "Himbeer Mojito",
         "description": "Havana Club 3 Añejo Años, Rohrzucker, Limettensaft, frische Minze, Himbeerpüree",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 13.5
-          }
-        ]
+        "price": 13.5
       },
       {
         "name": "Mojito Especial",
         "description": "Havana Club 3 Añejo Especial, Rohrzucker, Limettensaft, frische Minze",
-        "variants": [
-          {
-            "price": 13.5
-          }
-        ]
+        "price": 13.5
       }
     ]
   },
   {
-    "uuid": "719f4e56-1a24-4292-a4ec-2cd48638c7d2",
+    "uuid": "719f4e56 großa24-4292-a4ec-2cd48638c7d2",
     "name": "Sweet & Fruity",
     "items": [
       {
         "name": "Herz",
         "description": "Three Sixty Vodka, Brick Gin, Maracujasaft, Cranberrysaft, Johannisbeersaft, Limettensaft, Mandel-Sirup",
-        "variants": [
-          {
-            "price": 10.6
-          }
-        ]
+        "price": 10.6
       },
       {
         "name": "Sex on the Beach",
         "description": "Three Sixty Vodka, Pepino Peach, Orangensaft, Cranberrysaft, Limettensaft",
-        "variants": [
-          {
-            "price": 9.8
-          }
-        ]
+        "price": 9.8
       },
       {
         "name": "White Apple",
         "description": "Three Sixty Vodka, Apfelsaft, Zitronensaft, Mandel-Sirup, Mineralwasser",
-        "variants": [
-          {
-            "price": 0
-          }
-        ]
+        "price": 9.6
       },
       {
         "name": "Dreamcatcher",
         "description": "Havana Club Añejo Blanco, Likör 43, Orangensaft, Zitronensaft, Maracujasaft, Limettensaft, Karamell-Sirup",
-        "variants": [
-          {
-            "price": 9.8
-          }
-        ]
+        "price": 9.8
       },
       {
         "name": "Mai Tai",
         "description": "Havana Club Añejo Blanco, Havana Club Añejo 3 Anos, Bols Triple Sec Orangenlikör, Zitronensaft, Anananssaft, Orangensaft, Mandel-Sirup",
-        "variants": [
-          {
-            "price": 10.2
-          }
-        ]
+        "price": 10.2
       },
       {
         "name": "Zombie",
         "description": "Havana Club Añejo Blanco, Havana Club Añejo 3 Anos, Old Pascas 73%, Anananssaft, Maracujasaft, Grenadine",
-        "variants": [
-          {
-            "price": 10.8
-          }
-        ]
+        "price": 10.8
       },
       {
         "name": "Cosmopolitan",
         "description": "Three Sixty Vodka, Apfelsaft, Zitronensaft, Mandelsirup, Mineralwasser",
-        "variants": [
-          {
-            "price": 9.3
-          }
-        ]
+        "price": 9.3
       },
       {
         "name": "Gimelt",
         "description": "Gin, Limettensaft",
-        "variants": [
-          {
-            "price": 8.6
-          }
-        ]
+        "price": 8.6
       },
       {
         "name": "Long Island Ice Tea",
         "description": "Three Sixty Vodka, Bombay London Dry Gin, Havana Club Añejo 3 Anos, El Jimador Blanco, Bols Triple Sec Orangenlikör, Orangensaft, Cola",
-        "variants": [
-          {
-            "name": "0,5 l",
-            "price": 12.5
-          }
-        ]
+        "price": 12.5
       },
       {
         "name": "Manhattan",
         "description": "Roter Wermut, Canadian Club Blended Whisky, Angostura Bitter",
-        "variants": [
-          {
-            "price": 10.5
-          }
-        ]
+        "price": 10.5
       }
     ]
   },
@@ -779,38 +499,22 @@
       {
         "name": "Gin Sour",
         "description": "Bombay Sapphire London Dry Gin, Zitronensaft, Puderzucker, Orangensaft",
-        "variants": [
-          {
-            "price": 11.9
-          }
-        ]
+        "price": 11.9
       },
       {
         "name": "Vodka Sour",
         "description": "Three Sixty Vodka, Zitronensaft, Puderzucker, Orangensaft",
-        "variants": [
-          {
-            "price": 11.9
-          }
-        ]
+        "price": 11.9
       },
       {
         "name": "Whiskey Sour",
         "description": "Jim Beam, Zitronensaft, Puderzucker, Orangensaft",
-        "variants": [
-          {
-            "price": 11.9
-          }
-        ]
+        "price": 11.9
       },
       {
         "name": "Gin Fizz",
         "description": "Bombay Sapphire London Dry Gin, Zitronensaft, Puderzucker, Soda",
-        "variants": [
-          {
-            "price": 9.5
-          }
-        ]
+        "price": 9.5
       }
     ]
   },
@@ -821,29 +525,17 @@
       {
         "name": "Pina Colada",
         "description": "Havana Club Añejo Blanco, Batida de Coco, Kokos-Sirup, Anananssaft, Sahne",
-        "variants": [
-          {
-            "price": 9.5
-          }
-        ]
+        "price": 9.5
       },
       {
         "name": "Baileys Colada",
         "description": "Havana Club Añejo 3 Anos, Baileys, Kokos-Sirup, Anananssaft, Bananensaft, Sahne",
-        "variants": [
-          {
-            "price": 10.5
-          }
-        ]
+        "price": 10.5
       },
       {
         "name": "Swimming Pool",
         "description": "Three Sixty Vodka, Bacardi Carta Blanca, Blue Curacao, Anananssaft, Kokos-Sirup, Sahne",
-        "variants": [
-          {
-            "price": 9.4
-          }
-        ]
+        "price": 9.4
       }
     ]
   },
@@ -854,47 +546,27 @@
       {
         "name": "Tropical Cloud",
         "description": "Orangensaft, Maracujasaft, Mangosaft, Limettensaft, Sahne",
-        "variants": [
-          {
-            "price": 6.5
-          }
-        ]
+        "price": 6.5
       },
       {
         "name": "Fruit Punch",
         "description": "Orangensaft, Ananassaft, Maracujasaft, Zitronensaft, Grenadine",
-        "variants": [
-          {
-            "price": 6.3
-          }
-        ]
+        "price": 6.3
       },
       {
         "name": "Bambula",
         "description": "Orangensaft, Ananassaft, Maracujasaft, Rohrzucker, Limettensaft",
-        "variants": [
-          {
-            "price": 6.9
-          }
-        ]
+        "price": 6.9
       },
       {
         "name": "Coconut Kiss",
         "description": "Ananassaft, Kirschsaft, Kokos-Sirup, Sahne",
-        "variants": [
-          {
-            "price": 6.3
-          }
-        ]
+        "price": 6.3
       },
       {
         "name": "Ipanema",
         "description": "Thomas Henry Ginger Ale, Rohrzucker, Limettensaft",
-        "variants": [
-          {
-            "price": 6.5
-          }
-        ]
+        "price": 6.5
       }
     ]
   },
@@ -905,52 +577,27 @@
       {
         "name": "Small Beer",
         "description": "Likör 43, Sahne",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 4.2
-          }
-        ]
+        "price": 4.2
       },
       {
         "name": "B52",
         "description": "Baileys, Kahlua, Old Pascas 73%",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 6.5
-          }
-        ]
+        "price": 6.5
       },
       {
         "name": "Apfelmus",
         "description": "Three Sixty Vodka, Apfelsaft, Karamellsirup",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 4.5
-          }
-        ]
+        "price": 4.5
       },
       {
         "name": "Apfelstrudel",
         "description": "Malibu, Apfelsaft, Zimt",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 4.5
-          }
-        ]
+        "price": 4.5
       },
       {
         "name": "Hot Shot",
         "description": "Espresso, Likör 43, Sahne",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 5.8
-          }
-        ]
+        "price": 5.8
       }
     ]
   },
@@ -960,21 +607,11 @@
     "items": [
       {
         "name": "Cinzano Bianco",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 5.5
-          }
-        ]
+        "price": 5.5
       },
       {
         "name": "Campari",
-        "variants": [
-          {
-            "name": "5 cl",
-            "price": 4.5
-          }
-        ]
+        "price": 4.5
       }
     ]
   },
@@ -984,165 +621,87 @@
     "items": [
       {
         "name": "Baileys on Ice",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 5.2
-          }
-        ]
+        "price": 5.2
       },
       {
         "name": "Sambuca Il Santo",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 6.2
-          }
-        ]
+        "price": 6.2
       },
       {
         "name": "Berliner Luft",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 3.5
-          }
-        ]
+        "price": 3.5
       }
     ]
   },
   {
-    "uuid": "57cb9b2b-16d3-4f14-bd9b-5cee157dae21",
+    "uuid": "57cb9b2b groß6d3-4f14-bd9b-5cee157dae21",
     "name": "Rum",
     "items": [
       {
         "name": "Havana Club Añejo 3 Anos",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 2.4
-          }
-        ]
+        "price": 2.4
       },
       {
         "name": "Havana Club Añejo 7 Anos",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 3.4
-          }
-        ]
+        "price": 3.4
       },
       {
         "name": "Havana Club Añejo Especial",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 2.9
-          }
-        ]
+        "price": 2.9
       },
       {
         "name": "Don Papa",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 5.3
-          }
-        ]
+        "price": 5.3
       }
     ]
   },
   {
     "uuid": "d896dfd8-bb50-4e23-bfae-285ed8026698",
-    "name": "Sprituosen",
-    "description": "Tequila",
+    "name": "Tequila",
     "items": [
       {
         "name": "Agavita Tequila Añejo",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 3.9
-          }
-        ]
+        "price": 3.9
       }
     ]
   },
   {
     "uuid": "7c0c01b7-bddc-4f09-a5d0-bf34281432de",
-    "name": "Sprituosen",
-    "description": "Vodka",
+    "name": "Vodka",
     "items": [
       {
         "name": "Three Sixty Vodka",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 2.4
-          }
-        ]
+        "price": 2.4
       },
       {
         "name": "Belvedere Vodka",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 5.6
-          }
-        ]
+        "price": 5.6
       }
     ]
   },
   {
     "uuid": "b377de90-a43f-4310-b448-9dcd81aaa6c2",
-    "name": "Sprituosen",
-    "description": "Gin",
+    "name": "Gin",
     "items": [
       {
         "name": "Brick Gin",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 2
-          }
-        ]
+        "price": 2
       },
       {
         "name": "Bombay Sapphire London Dry Gin",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 2.6
-          }
-        ]
+        "price": 2.6
       },
       {
         "name": "Tanqueray London Dry Gin",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 2.8
-          }
-        ]
+        "price": 2.8
       },
       {
         "name": "Hendrick's",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 4.5
-          }
-        ]
+        "price": 4.5
       },
       {
         "name": "Gin Mare",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 5.5
-          }
-        ]
+        "price": 5.5
       }
     ]
   },
@@ -1152,16 +711,11 @@
     "items": [
       {
         "name": "Grappa Vuisinâr Riserva 2 Anni von Nonino",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 4.6
-          },
-          {
-            "name": "4 cl",
-            "price": 8.6
-          }
-        ]
+        "price": 4.6
+      },
+      {
+        "name": "Grappa Vuisinâr Riserva 2 Anni von Nonino groß",
+        "price": 8.6
       }
     ]
   },
@@ -1171,54 +725,29 @@
     "items": [
       {
         "name": "Honig Willi",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 5.8
-          }
-        ]
+        "price": 5.8
       },
       {
         "name": "Haselnuss",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 6.2
-          }
-        ]
+        "price": 6.2
       },
       {
         "name": "Himbeergeist",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 5.6
-          }
-        ]
+        "price": 5.6
       },
       {
         "name": "Mirabelle",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 5.6
-          }
-        ]
+        "price": 5.6
       }
     ]
   },
   {
-    "uuid": "363cdf08-250c-48e1-8007-14b823f8ad9f",
+    "uuid": "363cdf08-250c-48e1-8007 groß4b823f8ad9f",
     "name": "Gognac",
     "items": [
       {
         "name": "Cognac Remy Martin VSOP",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 5.2
-          }
-        ]
+        "price": 5.2
       }
     ]
   },
@@ -1228,29 +757,19 @@
     "items": [
       {
         "name": "Jägermeister",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 1.8
-          },
-          {
-            "name": "4 cl",
-            "price": 3.5
-          }
-        ]
+        "price": 1.8
+      },
+      {
+        "name": "Jägermeister groß",
+        "price": 3.5
       },
       {
         "name": "Ramazzotti",
-        "variants": [
-          {
-            "name": "4 cl",
-            "price": 1.8
-          },
-          {
-            "name": "4 cl",
-            "price": 3.5
-          }
-        ]
+        "price": 1.8
+      },
+      {
+        "name": "Ramazzotti groß",
+        "price": 3.5
       }
     ]
   },
@@ -1260,58 +779,28 @@
     "items": [
       {
         "name": "Glenfiddich 12 Jahre",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 3.7
-          }
-        ]
+        "price": 3.7
       },
       {
         "name": "Glenfiddich 15 Jahre",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 5.2
-          }
-        ]
+        "price": 5.2
       },
       {
         "name": "Lagavulin 16 Jahre",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 7.2
-          }
-        ]
+        "price": 7.2
       },
       {
         "name": "Dalwhinnie 15 Jahre",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 5.6
-          }
-        ]
+        "price": 5.6
       },
       {
         "name": "Chivas Regal 12 Jahre",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 4.2
-          }
-        ]
+        "price": 4.2
       },
       {
         "name": "Drambuie (Whisky-Likör)",
         "description": "(Honig-Kräuter Note)",
-        "variants": [
-          {
-            "name": "2 cl",
-            "price": 3.9
-          }
-        ]
+        "price": 3.9
       }
     ]
   }
